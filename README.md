@@ -20,7 +20,8 @@
 
 ## 🎥 Demo
 ![Demo GIF](https://github.com/yourusername/IP-Finder/blob/main/demo.gif)  
-*(Replace this with your own GIF or screenshot)*
+![Screenshot 2025-02-08 210542](https://github.com/user-attachments/assets/117b5f36-d737-46b9-be61-5dbe0509f1f0)
+
 
 ---
 
